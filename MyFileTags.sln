@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFileTags", "MyFileTags.csproj", "{24852526-174A-40A6-B32F-716397C87B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsnCsLib.File", "..\..\OsnCsLib\File\OsnCsLib.File.csproj", "{514A455B-ADE8-44D3-A345-C0DA4988A5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24852526-174A-40A6-B32F-716397C87B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24852526-174A-40A6-B32F-716397C87B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24852526-174A-40A6-B32F-716397C87B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24852526-174A-40A6-B32F-716397C87B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514A455B-ADE8-44D3-A345-C0DA4988A5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514A455B-ADE8-44D3-A345-C0DA4988A5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514A455B-ADE8-44D3-A345-C0DA4988A5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514A455B-ADE8-44D3-A345-C0DA4988A5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C565F1-16F0-4C7E-95F4-02A1992237BE}
+	EndGlobalSection
+EndGlobal
